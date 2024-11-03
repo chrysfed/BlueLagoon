@@ -1,0 +1,7 @@
+// idk what im doingg
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
